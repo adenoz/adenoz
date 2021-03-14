@@ -1,6 +1,5 @@
 # :smile: Hi, I’m @adenoz (Deno)
 
-- :neutral_face: I'm new here, be nice
 - :house: I’m interested in learning about next-generation smart home automation
 - :chart: Somewhat related, I aim to learn about data analytics as I go
 - :key: I’m currently learning about ssh as I setup wiki.js to capture my learning
