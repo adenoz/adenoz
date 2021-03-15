@@ -11,6 +11,8 @@ This effort will be the main long project I explore and learn about here. I am e
 
 I am aiming to use [home-assistant](https://github.com/home-assistant/home-assistant.io) as the centre of this system. I aim to develop a strong security and safety system as the main component which will use machine learning image recognition for not only security (people and cars) but also safety (such as detect fire). The hardware will likely involve Nvidia GPUs.
 
+Testing. Other edit.
+
 ## Data analytics
 
 I have long had an interest in data analytics and I intend to put more time in to learning. I have delved into R which is a great language but am now erring towards Python. I know.
