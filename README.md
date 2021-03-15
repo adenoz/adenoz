@@ -7,11 +7,9 @@
 
 ## Next-generation smart home automation
 
-This effort will be the main long project I explore and learn about here. I am expecting this effort to last years rather than months or even weeks.
+This effort will be the main long project I will explore and learn about here. I am expecting this effort to last years rather than months or even weeks. When a bit more mature, I'll start a repo to capture and manage everything.
 
-I am aiming to use [home-assistant](https://github.com/home-assistant/home-assistant.io) as the centre of this system. I aim to develop a strong security and safety system as the main component which will use machine learning image recognition for not only security (people and cars) but also safety (such as detect fire). The hardware will likely involve Nvidia GPUs.
-
-Testing. Other edit.
+I am aiming to use [home-assistant](https://github.com/home-assistant/home-assistant.io) as the centre of this system. I aim to develop a strong security and safety system as the main component which will use machine learning image recognition to detect for not only security (people and cars) but also safety (such as detect fire). The hardware will likely involve Nvidia GPUs.
 
 ## Data analytics
 
@@ -21,11 +19,11 @@ I'm expecting to setup [Grafana](https://github.com/grafana/grafana) and learn S
 
 ## Learning
 
-I think setting up a wiki of some sort is the best way to start with any learning as you can start documenting right away. I have decided to go with [wiki.js](https://github.com/Requarks/wiki) because it is modern and fast but also because I can write in markdown and have my wikis sync with github.
+I think setting up a wiki of some sort is the best way to start with any learning as you can start documenting right away. I've decided to go with [wiki.js](https://github.com/Requarks/wiki) because it is modern and fast and also because I can write in markdown and have my wikis sync with github.
 
 ## Collaborate?
 
-While I don't think I'll be submitting pull requests any time soon, I certainly have an intent to contribute to the projects I am interested in and will be using.
+While I don't think I'll be submitting pull requests any time soon, I certainly have an intent to contribute to the projects I am interested in and will be using. But only after becoming more familiar with Git, Github and how open source projects work more generally.
 
 ## Extras
 
