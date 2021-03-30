@@ -2,8 +2,6 @@
 
 - :house: I’m interested in learning about next-generation smart home automation
 - :chart: Somewhat related, I aim to learn about data analytics as I go
-- :key: I’m currently learning about ssh as I setup wiki.js to capture my learning
-- :wave: I’m looking to collaborate on interesting things
 
 ## Next-generation smart home automation
 
