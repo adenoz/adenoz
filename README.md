@@ -19,14 +19,6 @@ I'm expecting to setup [Grafana](https://github.com/grafana/grafana) and learn S
 
 I think setting up a wiki of some sort is the best way to start with any learning as you can start documenting right away. I've decided to go with [wiki.js](https://github.com/Requarks/wiki) because it is modern and fast and also because I can write in markdown and have my wikis sync with github.
 
-## Collaborate?
-
-While I don't think I'll be submitting pull requests any time soon, I certainly have an intent to contribute to the projects I am interested in and will be using. But only after becoming more familiar with Git, Github and how open source projects work more generally.
-
-## Extras
-
-I also like playing guitar. And drinking (and smelling) nice coffee. And cycling (road and mountain). I have a knack of finding too many things interesting and never really excelling at any one of them. But this time, it's different #eyeroll
-
 
 
 <!---
