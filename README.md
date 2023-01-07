@@ -1,7 +1,7 @@
 # :smile: Hi, I’m @adenoz
 
-- :house: I’m interested in learning about next-generation smart home automation
-- :chart: Also very interested in data analytics
+- :house: I think about next-generation smart home automation
+- :chart: Also think about practical ways to utilise data analytics
 
 
 <!---
