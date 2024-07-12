@@ -1,7 +1,7 @@
 # :smile: Hi, I’m @adenoz
 
-- I like stuff.
-- I like data as it sometimes helps me.
+- I'm interested in data analytics and engineering.
+- My repos here are personal projects where I explore (such as via R Markdown notebooks) or build things I want in ways that interest me (such as RusQTTbom).
 
 
 <!---
